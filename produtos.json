@@ -1,0 +1,14 @@
+[
+  {
+    "Sku": "1",
+    "Nome": "Tenis",
+    "PrecoUnit": 10,
+    "Desc": "Tenis Nike"
+  },
+  {
+    "Sku": "2",
+    "Nome": "Camiseta",
+    "PrecoUnit": 20,
+    "Desc": "Camiseta Polo Top"
+  }
+]

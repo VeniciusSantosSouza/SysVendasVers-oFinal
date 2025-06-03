@@ -1,0 +1,26 @@
+[
+  {
+    "IdCliente": 1,
+    "Nome": "haudhuasid",
+    "Email": "asduhasud",
+    "Telefone": "ashudhasud"
+  },
+  {
+    "IdCliente": 2,
+    "Nome": "uasdhuashd",
+    "Email": "asudhuasdh",
+    "Telefone": "ashudhasudhu"
+  },
+  {
+    "IdCliente": 0,
+    "Nome": "Bruno Eduardo da Silva",
+    "Email": "haudhsuaih@huashdua",
+    "Telefone": "12871827128"
+  },
+  {
+    "IdCliente": 2,
+    "Nome": "Bruna de Oliveira",
+    "Email": "bruna@terra.com.br",
+    "Telefone": "23878172"
+  }
+]

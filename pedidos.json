@@ -1,0 +1,40 @@
+[
+  {
+    "IdPedido": 1,
+    "Data": "2025-04-25T19:55:00.0501308-03:00",
+    "Cliente": {
+      "IdCliente": 1,
+      "Nome": "haudhuasid",
+      "Email": "asduhasud",
+      "Telefone": "ashudhasud"
+    },
+    "Status": "Em Aberto",
+    "Total": 170,
+    "Items": [
+      {
+        "Produto": {
+          "Sku": "2",
+          "Nome": "Camiseta",
+          "PrecoUnit": 20,
+          "Desc": "Camiseta Polo Top"
+        },
+        "Quantidade": 5,
+        "Desconto": 10,
+        "Preco": 20,
+        "SubTotal": 90
+      },
+      {
+        "Produto": {
+          "Sku": "1",
+          "Nome": "Tenis",
+          "PrecoUnit": 10,
+          "Desc": "Tenis Nike"
+        },
+        "Quantidade": 8,
+        "Desconto": 0,
+        "Preco": 10,
+        "SubTotal": 80
+      }
+    ]
+  }
+]
