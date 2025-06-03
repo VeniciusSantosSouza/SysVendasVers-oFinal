@@ -36,17 +36,17 @@ Além disso, adota boas práticas de desenvolvimento com <strong>.NET</strong> e
   <li>✔️ Consolidar os principais conceitos de <strong>POO</strong> na prática.</li>
   <li>✔️ Simular um sistema completo de gestão de vendas, incluindo:
     <ul>
-      <li>Cadastro de produtos</li>
-      <li>Cadastro de clientes</li>
-      <li>Processamento de vendas</li>
-      <li>Geração de relatórios</li>
+      <li>✔️ Cadastro de produtos</li>
+      <li>✔️ Cadastro de clientes</li>
+      <li>✔️ Processamento de vendas</li>
+      <li>✔️ Geração de relatórios</li>
     </ul>
   </li>
   <li>✔️ Utilizar estruturas de dados e tratamento de exceções.</li>
   <li>✔️ Proporcionar interação eficiente com o usuário.</li>
   <li>✔️ Desenvolver habilidades de:
     <ul>
-      <li>Configuração de ambientes conteinerizados com <strong>Docker</strong></li>
+      <li>✔️ Configuração de ambientes conteinerizados com <strong>Docker</strong></li>
     </ul>
   </li>
 </ul>
