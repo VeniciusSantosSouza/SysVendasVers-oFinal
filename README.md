@@ -1,49 +1,52 @@
-SysVendas
-Este repositório contém o projeto SysVendas, desenvolvido como parte da disciplina de Programação Orientada a Objetos (POO) do curso de Análise e Desenvolvimento de Sistemas na Universidade Paulista (UNIP) — 3º semestre, sob orientação do professor Breno Moreira de Oliveira.
+<h1>SysVendas</h1>
 
-📄 Descrição
-O SysVendas é um sistema de gerenciamento de vendas, desenvolvido com foco na aplicação prática dos principais conceitos de Programação Orientada a Objetos (POO) em C#. O projeto explora e consolida pilares como:
+<p>
+Este repositório contém o projeto <strong>SysVendas</strong>, desenvolvido como parte da disciplina de <strong>Programação Orientada a Objetos (POO)</strong> do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Universidade Paulista (UNIP)</strong> — 3º semestre, sob orientação do professor <strong>Breno Moreira de Oliveira</strong>.
+</p>
 
-✅ Encapsulamento
+<h2>📄 Descrição</h2>
 
-✅ Herança
+<p>
+O <strong>SysVendas</strong> é um sistema de gerenciamento de vendas, desenvolvido com foco na aplicação prática dos principais conceitos de <strong>Programação Orientada a Objetos (POO)</strong> em <strong>C#</strong>. O projeto explora e consolida pilares como:
+</p>
 
-✅ Polimorfismo
+<ul>
+  <li>✅ Encapsulamento</li>
+  <li>✅ Herança</li>
+  <li>✅ Polimorfismo</li>
+  <li>✅ Abstração</li>
+</ul>
 
-✅ Abstração
+<p>
+Além disso, adota boas práticas de desenvolvimento com <strong>.NET</strong> e integra tecnologias modernas para garantir eficiência, portabilidade e manutenibilidade.
+</p>
 
-Além disso, adota boas práticas de desenvolvimento com .NET e integra tecnologias modernas para garantir eficiência, portabilidade e manutenibilidade.
+<h2>🛠️ Tecnologias Utilizadas</h2>
 
-🛠️ Tecnologias Utilizadas
-C# – Linguagem principal para desenvolvimento da aplicação.
+<ul>
+  <li><strong>C#</strong> – Linguagem principal para desenvolvimento da aplicação.</li>
+  <li><strong>PostgreSQL</strong> – Banco de dados relacional utilizado para persistência das informações.</li>
+  <li><strong>Dapper</strong> – Micro ORM para mapeamento objeto-relacional e execução eficiente de queries SQL.</li>
+  <li><strong>Docker</strong> – Utilizado para conteinerização da aplicação e do banco de dados, facilitando a configuração e a padronização do ambiente de desenvolvimento.</li>
+</ul>
 
-PostgreSQL – Banco de dados relacional utilizado para persistência das informações.
+<h2>🎯 Objetivos do Projeto</h2>
 
-Dapper – Micro ORM para mapeamento objeto-relacional e execução eficiente de queries SQL.
-
-Docker – Utilizado para conteinerização da aplicação e do banco de dados, facilitando a configuração e a padronização do ambiente de desenvolvimento.
-
-🎯 Objetivos do Projeto
-✔️ Consolidar os principais conceitos de POO na prática.
-
-✔️ Simular um sistema completo de gestão de vendas, incluindo:
-
-Cadastro de produtos
-
-Cadastro de clientes
-
-Processamento de vendas
-
-Geração de relatórios
-
-✔️ Utilizar estruturas de dados e tratamento de exceções.
-
-✔️ Proporcionar interação eficiente com o usuário.
-
-✔️ Desenvolver habilidades de:
-
-Trabalho em equipe
-
-Versionamento de código com Git e GitHub
-
-Configuração de ambientes conteinerizados com Docker
+<ul>
+  <li>✔️ Consolidar os principais conceitos de <strong>POO</strong> na prática.</li>
+  <li>✔️ Simular um sistema completo de gestão de vendas, incluindo:
+    <ul>
+      <li>Cadastro de produtos</li>
+      <li>Cadastro de clientes</li>
+      <li>Processamento de vendas</li>
+      <li>Geração de relatórios</li>
+    </ul>
+  </li>
+  <li>✔️ Utilizar estruturas de dados e tratamento de exceções.</li>
+  <li>✔️ Proporcionar interação eficiente com o usuário.</li>
+  <li>✔️ Desenvolver habilidades de:
+    <ul>
+      <li>Configuração de ambientes conteinerizados com <strong>Docker</strong></li>
+    </ul>
+  </li>
+</ul>
